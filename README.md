@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Ben here, I'm a freshly graduated Software Engineer from App Academy. There, I studied Javascript, Python, react-redux, Node.js, Express.js, and a wide array of other popular technologies. 
+
+Computers and software have been a lifelong interest of mine and I'm excited I'm finallaly getting the opportunity to persue my dream! 
+
 I worked as a truck driver for about 8 years until I needed to make a change. I became a student at AppAcademy and learned more than I ever thought I could in such a short time period. 
 
 My time as a truck driver taught me how to be a self motivator. No one looks over your shoulder in the cab of a truck so it's up to you to make sure you run on time and make the miles you need to make. 
@@ -8,8 +12,6 @@ I also learned how to identify things that would affect my schedule and report t
 🚛 How late I would be
 🚛 The route with major cities along the way in case they could have me swap loads with another driver, and a general breakdown of what caused the delay 
 🚛 Why my current driving hours wouldn't allow for on time delivery
-
-During my time at AppAcademy I've learned how to create full stack project, both as a solo developer and as a member of a team. 
 
 ⭐The first project I worked on: https://meetup-clone-project-n8eu.onrender.com
 This was built using an express backend and react-redux front end. This was the first time I used the skills I had been developing to actually create something real. It's not as polished as my later projects, but was an important step in my growth as a developer. 
