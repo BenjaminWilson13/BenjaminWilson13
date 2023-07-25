@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-Ben here, I'm a freshly graduated Software Engineer from App Academy. There, I studied Javascript, Python, react-redux, Node.js, Express.js, and a wide array of other popular technologies. 
+Ben here, I'm a freshly graduated Software Engineer from App Academy. There, I studied and built projects with: 
+* Javascript
+* Python
+* React
+* Redux
+* Node.js
+* Express.js
+* Sequelize
+* Flask
+* SQAlchemy
+* Socket.io
+* SQlite3
 
-Computers and software have been a lifelong interest of mine and I'm excited I'm finallaly getting the opportunity to persue my dream! 
+Computers and software have been a lifelong interest of mine though until now I've only explored custom PC building and computer networks. I experimented with programming in the past but wasn't able to get deep enough into it on my own to make a career out of it. I'm excited I'm finallaly getting the opportunity to persue my dream of working as a programmer.
 
 I worked as a truck driver for about 8 years until I needed to make a change. I became a student at AppAcademy and learned more than I ever thought I could in such a short time period. 
 
